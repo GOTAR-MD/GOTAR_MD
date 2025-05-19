@@ -138,4 +138,4 @@ If you face any issues, report them on GitHub or in the WhatsApp community.
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-> *𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 poweref GOTAR-TECH*
+> *powered by Gotar-Tech*
